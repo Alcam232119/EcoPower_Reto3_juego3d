@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/GUI.unity
+    guid: a22a5ed38cd50434da14bc11f34163cd
+  - enabled: 1
+    path: Assets/Scenes/Nivel del Sol.unity
+    guid: 34379a6bef3e96045be0c4a8ee48d643
+  - enabled: 1
+    path: Assets/Scenes/Nivel de Tierra.unity
+    guid: 66cf90520a32e2c47ae079e3a772f67e
+  - enabled: 1
+    path: Assets/Scenes/Nivel del fuego.unity
+    guid: 47f757d28676c4f49a11e68de963d94f
   m_configObjects: {}
